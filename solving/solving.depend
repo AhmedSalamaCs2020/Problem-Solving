@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616946243 source:c:\users\flutter\desktop\solving\solving\main.cpp
+	<iostream>
+	<cstdio>
+

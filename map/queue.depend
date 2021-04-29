@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619684948 source:c:\users\flutter\desktop\solving\queue\main.cpp
+	<iostream>
+	<queue>
+	<bits/stdc++.h>
+

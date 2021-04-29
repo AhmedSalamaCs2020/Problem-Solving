@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616796057 source:c:\users\flutter\desktop\solving\deletenode\main.cpp
+	<iostream>
+	<iterator>
+	<set>
+
